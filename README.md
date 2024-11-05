@@ -1,6 +1,3 @@
-
-Certainly! Here's the README in English:
-
 Backend JWT CRUD
 This is a backend for an authentication system based on JSON Web Tokens (JWT) using Node.js, Express, and MongoDB.
 
